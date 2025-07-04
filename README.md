@@ -7,9 +7,8 @@ It calculates the tax payable based on the Indian **Old vs New Regime**, saves t
 
 ## 📹 Demo
 
-> Click the image/GIF below to see the app in action:
+![Demo](demo.gif)
 
-![Demo](demo.mp4)
 
 ---
 
